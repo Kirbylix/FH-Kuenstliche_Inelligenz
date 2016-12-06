@@ -1,0 +1,15 @@
+[12,8]
+Cell[3,3] : O
+Cell[3,4] : O
+Cell[4,4] : O
+Cell[5,4] : O
+Cell[6,3] : C
+Cell[6,4] : O
+Cell[7,4] : O
+Cell[8,4] : O
+Cell[9,4] : O
+Cell[9,5] : O
+Cell[9,6] : O
+Cell[9,7] : O
+Cell[10,7] : O
+Cell[11,7] : O
